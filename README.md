@@ -1,2 +1,2 @@
 # PicoGym
-Solutions and write-ups for picoCTF reverse engineering challenges
+Solutions and write-ups for picoCTF binary exploitation and reverse engineering challenges
